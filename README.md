@@ -9,13 +9,20 @@ I have implemented **multiple approaches** for learning purposes:
 2. **Reverse & Compare Method**  
    - Example: `meelad`
 
+
+---
+
 📬 Contact
 
 📧 Email: meeladraza56@gmail.com
 
-🌐 GitHub: itx.meelad56
+🌐 GitHub: https://github.com/itx-Meelad56  
 
-💼 LinkedIn: Meelad Raza
+💼 LinkedIn:https://www.linkedin.com/in/meelad-raza-736480339/
+
+
+---
+
 
 👨‍💻 Author
 
